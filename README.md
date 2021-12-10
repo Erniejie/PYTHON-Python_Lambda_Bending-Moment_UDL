@@ -1,0 +1,2 @@
+# PYTHON-Python_Lambda_Bending-Moment_UDL
+PYTHON-Python_Lambda_Bending Moment_UDL
